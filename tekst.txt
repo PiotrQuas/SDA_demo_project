@@ -1,2 +1,2 @@
-My first text file (mój pierwszy plik tekstowy)
+My first text file (moj pierwszy plik tekstowy)
 My second line of the text
